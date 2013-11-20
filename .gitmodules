@@ -1,3 +1,3 @@
 [submodule "duino"]
 	path = duino
-	url = git@github.com:cleargif/duino.git
+	url = https://github.com/cleargif/duino.git
